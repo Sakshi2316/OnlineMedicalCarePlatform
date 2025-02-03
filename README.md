@@ -1,2 +1,3 @@
-# Hospital-Management-System
+# OnlineMedicalCarePlatform
+
 Using JDBC and Mysql
